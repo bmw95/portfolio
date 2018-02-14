@@ -32,6 +32,7 @@ In some cases a pull request might be used as a link, if the code is not yet pre
 | calendar_resource                    | [https://github.com/OCA/crm/tree/10.0/calendar_resource](https://github.com/OCA/crm/tree/10.0/calendar_resource)      |
 | product_default_image                | [https://github.com/OCA/product-attribute/tree/10.0/product_default_image](https://github.com/OCA/product-attribute/tree/10.0/product_default_image)      |
 | website_sale_contract                | [https://github.com/OCA/contract/pull/88](https://github.com/OCA/contract/pull/88) |
+| website_portal_contract              | [https://github.com/OCA/contract/tree/10.0/website_portal_contract](https://github.com/OCA/contract/tree/10.0/website_portal_contract) |
 
 
 ## Commit History
